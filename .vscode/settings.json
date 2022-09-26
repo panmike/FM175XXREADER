@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.json": "json",
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+    "mifare_card.h": "c",
+    "fm175xx.h": "c",
+    "INTRINS.H": "cpp"
+  }
+}
